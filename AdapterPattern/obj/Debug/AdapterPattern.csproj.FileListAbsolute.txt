@@ -1,0 +1,16 @@
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.1 Adapter\8.1 Adapter LastName\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.1 Adapter\8.1 Adapter LastName\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.1 Adapter\8.1 Adapter LastName\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.1 Adapter\8.1 Adapter LastName\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.1 Adapter\8.1 Adapter LastName\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.1 Adapter\8.1 Adapter LastName\AdapterPattern\obj\Debug\AdapterPattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\obj\Debug\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\obj\Debug\AdapterPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\obj\Debug\AdapterPattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\bin\Debug\TurkeyService.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.1 Adapter Huber\AdapterPattern\obj\Debug\AdapterPattern.csproj.CopyComplete
